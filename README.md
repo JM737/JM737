@@ -1,32 +1,33 @@
-  <h2>Hello There!</h2>
+  <h1 align="center">Hello There!</h1>
 <div>
   
 <div align="left">
   <h2>About Me</h2>
   <p>
     - Noob at coding. xD <br>
-    - Currently learning frontend, backend, and machine learning <br>
-     - Aspiring Software Engineer <br>
-     - Loves New Jeans. 🐇
+    - Currently learning <strong>Frontend</strong>, <strong>Backend</strong>, and <strong>Machine Learning</strong>. <br>
+     - Aspiring <strong>Software Engineer</strong>. <br>
+     - Loves <strong>New Jeans</strong>. 🐇
   </p>
 </div>
 
 <div align="left">
  <h2>Objectives</h2>
   <p>
-    - Build an open-source for people to use <br>
-    - Create an AI that can be integrate in Medical Field <br> 
+    - Build an <strong>impactful open-source code</strong>. <br>
+    - Develop an AI that can contribute in the advancement of <strong>medical field</strong>. <br> 
   </p>
 </div>
 
-<div align="left">
-  <h2>Tools</h2>
-  <p>
-  <img src="https://github.com/user-attachments/assets/75a99422-3cc6-4de6-bb3d-e222af258ed1" alt="Java Programming Logo" width="200"align="center">
-  <img src="https://github.com/user-attachments/assets/bf838681-d47d-46bb-a76a-67346e1aea1c" alt="Laravel Logo" width="200" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="200" align="center">
-  <img src="https://github.com/user-attachments/assets/af6175bf-1e14-4b1e-9e5a-c7bc4c38275c" alt="Dart Logo" width="200" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/1024px-Flutter_logo.svg.png" alt="Flutter Logo" width="200" align="center">
-  <img src="https://www.flaticon.com/free-icon/html-5_174854" alt="HTML Logo" width="200" align="center">
-  </p>
+<h2>Tools</h2>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; padding: 10px 50px;">
+  <img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java" height="60">
+  <img src="https://www.svgrepo.com/show/353980/kotlin.svg" alt="Kotlin" height="60">
+  <img src="https://www.svgrepo.com/show/349474/php.svg" alt="PHP" height="60">
+  <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" height="60">
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" height="60">
+  <img src="https://www.svgrepo.com/show/354037/mariadb-icon.svg" alt="MariaDB" height="60">
 </div>
+
+
+
