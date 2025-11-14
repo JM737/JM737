@@ -27,6 +27,7 @@
   <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" height="60">
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" height="60">
   <img src="https://www.svgrepo.com/show/354037/mariadb-icon.svg" alt="MariaDB" height="60">
+  <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" height="60">
 </div>
 
 
