@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JM737&show_icons=true&theme=dark" width="500">
+  <img src="https://github-readme-stats.vercel.app/api?username=JM737&show_icons=true&theme=dracula" width="500">
 </p> 
 
 <div>
@@ -8,8 +8,7 @@
   <p>
     - Noob at coding. xD <br>
     - Currently learning <strong>Frontend</strong>, <strong>Backend</strong>, and <strong>Machine Learning</strong>. <br>
-     - Aspiring <strong>Software Engineer</strong>. <br>
-     - Loves <strong>New Jeans</strong>. 🐇
+    - Aspiring <strong>Software Engineer</strong> and <strong>AI Engineer</strong>. <br>
   </p>
 </div>
 
@@ -17,7 +16,7 @@
  <h2>Goals</h2>
   <p>
     - Build an <strong>impactful open-source code</strong>. <br>
-    - Develop an AI that can contribute in the advancement of <strong>medical field</strong>. <br>
+    - Building AI that empowers breakthroughs across <strong>science</strong>, <strong>technology</strong>, and <strong>society</strong>. <br>
     - Be a <strong>software enginner</strong> and <strong>AI engineer</strong>. <br>
   </p>
 </div>
@@ -32,3 +31,4 @@
   <img src="https://www.svgrepo.com/show/354037/mariadb-icon.svg" alt="MariaDB" height="60">
   <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" height="60">
 </div>
+
