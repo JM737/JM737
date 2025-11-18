@@ -1,6 +1,8 @@
-  <h1 align="center">Hello There!</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JM737&show_icons=true&theme=dark" width="500">
+</p> 
+
 <div>
-  
 <div align="left">
   <h2>About Me</h2>
   <p>
@@ -12,10 +14,11 @@
 </div>
 
 <div align="left">
- <h2>Objectives</h2>
+ <h2>Goals</h2>
   <p>
     - Build an <strong>impactful open-source code</strong>. <br>
-    - Develop an AI that can contribute in the advancement of <strong>medical field</strong>. <br> 
+    - Develop an AI that can contribute in the advancement of <strong>medical field</strong>. <br>
+    - Be a <strong>software enginner</strong> and <strong>AI engineer</strong>. <br>
   </p>
 </div>
 
@@ -29,6 +32,3 @@
   <img src="https://www.svgrepo.com/show/354037/mariadb-icon.svg" alt="MariaDB" height="60">
   <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" height="60">
 </div>
-
-
-
