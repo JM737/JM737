@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JM737&show_icons=true&theme=dracula" width="500">
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=JM737&show_icons=true&theme=dracula" width="500"> <br>
+</p>
+
 
 <div>
 <div align="left">
   <h2>About Me</h2>
   <p>
-    - Noob at coding. xD <br>
+    - Student. <br>
     - Currently learning <strong>Frontend</strong>, <strong>Backend</strong>, and <strong>Machine Learning</strong>. <br>
     - Aspiring <strong>Software Engineer</strong> and <strong>AI Engineer</strong>. <br>
   </p>
@@ -17,7 +18,7 @@
   <p>
     - Build an <strong>impactful open-source code</strong>. <br>
     - Building AI that empowers breakthroughs across <strong>science</strong>, <strong>technology</strong>, and <strong>society</strong>. <br>
-    - Be a <strong>software enginner</strong> and <strong>AI engineer</strong>. <br>
+    - To develop a <strong>free-to-use dynamic system</strong>.
   </p>
 </div>
 
@@ -30,5 +31,8 @@
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" height="60">
   <img src="https://www.svgrepo.com/show/354037/mariadb-icon.svg" alt="MariaDB" height="60">
   <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" height="60">
-</div>
+</div> <br>
 
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JM737&theme=dracula">
+</div>
