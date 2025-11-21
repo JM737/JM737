@@ -12,13 +12,13 @@
     - Aspiring <strong>Software Engineer</strong> and <strong>AI Engineer</strong>. <br>
   </p>
 </div>
-
-<div align="left">
- <h2>Goals</h2>
+  
+<div>
+<h2>Interest</h2>
   <p>
-    - Build an <strong>impactful open-source code</strong>. <br>
-    - Building AI that empowers breakthroughs across <strong>science</strong>, <strong>technology</strong>, and <strong>society</strong>. <br>
-    - To develop a <strong>free-to-use dynamic system</strong>.
+    - Mobile Games.
+    - AI.
+    - Web Development.
   </p>
 </div>
 
@@ -32,7 +32,3 @@
   <img src="https://www.svgrepo.com/show/354037/mariadb-icon.svg" alt="MariaDB" height="60">
   <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" height="60">
 </div> <br>
-
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JM737&theme=dracula">
-</div>
