@@ -16,9 +16,9 @@
 <div>
 <h2>Interest</h2>
   <p>
-    - Mobile Games.
-    - AI.
-    - Web Development.
+    - Mobile Games. <br>
+    - AI. <br>
+    - Web Development. <br>
   </p>
 </div>
 
