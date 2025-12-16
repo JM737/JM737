@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JM737&show_icons=true&theme=dracula" width="500"> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=JM737&show_icons=true&theme=dracula" width="460"> <br>
 </p>
-
 
 <div>
 <div align="left">
@@ -16,9 +15,10 @@
 <div>
 <h2>Interest</h2>
   <p>
-    - Mobile Games. <br>
+    - Gaming. <br>
     - AI. <br>
-    - Web Development. <br>
+    - Software Development. <br>
+    - Fancy Tech Setups. <br>
   </p>
 </div>
 
