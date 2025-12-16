@@ -4,7 +4,8 @@
 
 <div>
 <div align="left">
-  <h2>About Me</h2>
+  <h3>About Me</h3>
+  <hr style="border: 1px;">
   <p>
     - Student. <br>
     - Currently learning <strong>Frontend</strong>, <strong>Backend</strong>, and <strong>Machine Learning</strong>. <br>
@@ -13,7 +14,8 @@
 </div>
   
 <div>
-<h2>Interest</h2>
+<h3>Interest</h3>
+  <hr style="border: 1px;">
   <p>
     - Gaming. <br>
     - AI. <br>
@@ -22,7 +24,8 @@
   </p>
 </div>
 
-<h2>Tools</h2>
+<h3>Tools</h3>
+<hr style="border: 1px soild;">
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; padding: 10px 50px;">
   <img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java" height="60">
   <img src="https://www.svgrepo.com/show/353980/kotlin.svg" alt="Kotlin" height="60">
