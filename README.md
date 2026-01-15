@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JM737&show_icons=true&theme=dracula" width="460"> <br>
-</p>
-
 <div>
 <div align="left">
   <h3>About Me</h3>
