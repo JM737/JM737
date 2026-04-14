@@ -32,3 +32,5 @@
   <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" height="60">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-colab-icon.png" alt="Google Colab" height="60">
 </div> <br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/jermaine-billones-17a97a383//)
