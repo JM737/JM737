@@ -30,5 +30,5 @@
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" height="60">
   <img src="https://www.svgrepo.com/show/354037/mariadb-icon.svg" alt="MariaDB" height="60">
   <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt="Google Colab" height="60">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-colab-icon.png" alt="Google Colab" height="60">
 </div> <br>
