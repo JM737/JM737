@@ -5,7 +5,7 @@
   <p>
     - Student. <br>
     - Currently learning <strong>Frontend</strong>, <strong>Backend</strong>, and <strong>Machine Learning</strong>. <br>
-    - Aspiring <strong>Software Engineer</strong> and <strong>AI Engineer</strong>. <br>
+    - Aspiring <strong>Software Developer</strong> and <strong>Machine Learning Engineer</strong>. <br>
   </p>
 </div>
   
@@ -14,7 +14,7 @@
   <hr style="border: 1px;">
   <p>
     - Gaming. <br>
-    - AI. <br>
+    - Artificial Intelligence. <br>
     - Software Development. <br>
     - Fancy Tech Setups. <br>
   </p>
@@ -31,4 +31,5 @@
   <img src="https://www.svgrepo.com/show/354037/mariadb-icon.svg" alt="MariaDB" height="60">
   <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" height="60">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-colab-icon.png" alt="Google Colab" height="60">
+  <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="Visual Studio Code" height="60">
 </div> <br>
