@@ -4,8 +4,8 @@
   <hr style="border: 1px;">
   <p>
     - Student. <br>
-    - Currently learning <strong>Frontend</strong>, <strong>Backend</strong>, and <strong>Machine Learning</strong>. <br>
-    - Aspiring <strong>Software Developer</strong> and <strong>Machine Learning Engineer</strong>. <br>
+    - Currently learning <strong>Deep Learning</strong> and <strong>Machine Learning</strong>. <br>
+    - Aspiring <strong>Software Developer</strong> and <strong>AI Engineer</strong>. <br>
   </p>
 </div>
   
@@ -16,7 +16,7 @@
     - Gaming. <br>
     - Artificial Intelligence. <br>
     - Software Development. <br>
-    - Fancy Tech Setups. <br>
+    - Mechanical Keyboard. <br>
   </p>
 </div>
 
