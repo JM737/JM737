@@ -13,10 +13,9 @@
 <h3>Interest</h3>
   <hr style="border: 1px;">
   <p>
-    - Gaming. <br>
     - Artificial Intelligence. <br>
     - Software Development. <br>
-    - Mechanical Keyboard. <br>
+    - Software Engineering. <br>
   </p>
 </div>
 
