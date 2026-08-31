@@ -5,7 +5,7 @@
   <p>
     - Student. <br>
     - Currently learning <strong>Deep Learning</strong> and <strong>Machine Learning</strong>. <br>
-    - Aspiring <strong>Software Developer</strong> and <strong>AI Engineer</strong>. <br>
+    - Aspiring <strong>Software Engineer</strong> and <strong>AI Engineer</strong>. <br>
   </p>
 </div>
   
