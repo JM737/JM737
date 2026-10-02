@@ -26,8 +26,7 @@
   <img src="https://www.svgrepo.com/show/353980/kotlin.svg" alt="Kotlin" height="60">
   <img src="https://www.svgrepo.com/show/349474/php.svg" alt="PHP" height="60">
   <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" height="60">
-  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" height="60">
-  <img src="https://www.svgrepo.com/show/354037/mariadb-icon.svg" alt="MariaDB" height="60">
+  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" height="60">
   <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" height="60">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-colab-icon.png" alt="Google Colab" height="60">
   <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="Visual Studio Code" height="60">
