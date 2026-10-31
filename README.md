@@ -22,7 +22,7 @@
 <h3>Tools</h3>
 <hr style="border: 1px soild;">
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; padding: 10px 50px;">
-  <img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java" height="60">
+  <img src="https://www.svgrepo.com/show/353924/java.svg" alt="Java" height="60">
   <img src="https://www.svgrepo.com/show/353980/kotlin.svg" alt="Kotlin" height="60">
   <img src="https://www.svgrepo.com/show/349474/php.svg" alt="PHP" height="60">
   <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" height="60">
